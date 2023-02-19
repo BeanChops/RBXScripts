@@ -1,3 +1,7 @@
+--[[
+THIS IS LOADSTRING FOR THIS SCRIPT
+loadstring(game:HttpGet('https://https://raw.githubusercontent.com/BeanChops/RBXScripts/main/Sound%20Thingy'))()
+]]--
 --sound thingy
 
 --[[
